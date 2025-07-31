@@ -95,6 +95,18 @@ A comprehensive project to analyze and visualize the **2024 Indian General Elect
 - Margin of victory visualization
 - Comparative analysis (NDA vs I.N.D.I.A. vs OTHER)
 
+
+
+
+
+
+
+https://github.com/user-attachments/assets/bdfc38f6-e67c-4313-9d14-7bc7c04a0216
+
+
+
+
+          
 ---
 
 ## 👨‍💻 Developed By
